@@ -1,4 +1,5 @@
 **Title:** ImageNet Classification with Deep Convolutional Neural Networks
+
 **Authors:** Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton 
 **Publication:** Communications of the ACM, Vol. 60, No. 6 (2017)  
 **DOI:** [https://doi.org/10.1145/3065386]
